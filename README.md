@@ -32,8 +32,10 @@ matplotlib: Visualizations.
 Project Workflow
 1. Data Collection
 Fetch historical NIFTY 50 index data for the last year using yfinance.
+
 Calculate daily log returns and estimate annualized volatility:
+
 𝜎=StdDev(Log Returns)×252
  
-2. Option Pricing
-![image](https://github.com/user-attachments/assets/88dafddf-216f-4f27-906e-2c9fc1283974)
+   
+
